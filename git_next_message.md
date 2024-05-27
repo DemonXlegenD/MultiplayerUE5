@@ -1,3 +1,3 @@
-NEW : Content
+FIX : Config
 
-- Importation du projet sur Github
+- Ajout de deux lignes dans la config pour pouvoir host une session
